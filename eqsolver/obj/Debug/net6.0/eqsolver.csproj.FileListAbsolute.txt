@@ -1,0 +1,15 @@
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/bin/Debug/net6.0/eqsolver
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/bin/Debug/net6.0/eqsolver.deps.json
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/bin/Debug/net6.0/eqsolver.runtimeconfig.json
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/bin/Debug/net6.0/eqsolver.dll
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/bin/Debug/net6.0/ref/eqsolver.dll
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/bin/Debug/net6.0/eqsolver.pdb
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/obj/Debug/net6.0/eqsolver.csproj.AssemblyReference.cache
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/obj/Debug/net6.0/eqsolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/obj/Debug/net6.0/eqsolver.AssemblyInfoInputs.cache
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/obj/Debug/net6.0/eqsolver.AssemblyInfo.cs
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/obj/Debug/net6.0/eqsolver.csproj.CoreCompileInputs.cache
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/obj/Debug/net6.0/eqsolver.dll
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/obj/Debug/net6.0/ref/eqsolver.dll
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/obj/Debug/net6.0/eqsolver.pdb
+/Users/davidesidoti/Documents/GitHub/math-solver/eqsolver/obj/Debug/net6.0/eqsolver.genruntimeconfig.cache
